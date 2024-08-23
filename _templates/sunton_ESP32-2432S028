@@ -18,6 +18,8 @@ build: tasmota32-lvgl
 
 Use the tasmota32-lvgl image when flashing.
 
+Please notice, there is an updated board with same name and an additional USB-C port out there. These settings don't work with new version!  
+
 The following contents should be copied to the filesystem as display.ini
 
 ```lua
